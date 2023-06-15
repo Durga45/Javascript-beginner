@@ -1,0 +1,15 @@
+.guessSubmit:hover{
+    background-color: teal;
+    color:black;
+
+
+}
+main {
+    padding: 1rem;
+  }
+  
+ .wrapper > h1 {
+    font-weight: bold;
+    font-size: 1.5rem;
+    
+  }
